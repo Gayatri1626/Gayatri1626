@@ -36,3 +36,11 @@
 </div>
 
 ###
+
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayatri1626&theme=radical" alt="GitHub Streak" />
+</div>
