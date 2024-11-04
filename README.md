@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a currently a Software Developer Intern at Artiset. Looking Forward to catch up with an exciting ideas!</p>
+<p align="left">A Persona with strong dedication,commitment and good energy.Looking Forward to catch up with an exciting ideas!</p>
 
 ###
 
