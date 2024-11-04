@@ -3,19 +3,6 @@
 ###
 
 👩‍💻 About Me
-
-🎯 Software Developer Intern at Artiset
-✨ Creating bugs since 2021
-📚 Currently learning Docker & Kubernetes
-📚 Want to learn - SEO, Shell scripting
-🎯 Goals:
-
-To achieve the best outcomes
-Continuous Learning
-Be the best to stand out
-
-🎲 Fun fact: I enjoy solving bugs!
-
 <p align="left">A Persona with strong dedication,commitment and good energy.Looking Forward to catch up with an exciting ideas!</p>
 
 ###
