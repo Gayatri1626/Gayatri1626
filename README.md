@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I am Gayatri</h1>
 
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Docker, Kubernetes.<br>🎯 Goals: To achieve the best outcomes.Continuous Learning.Be the best to standout. <br>🎲 Fun fact: solving bugs</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Good with NLP, Deep Leaning, Machine Learning and AI.<br>🎯 Goals: To achieve the best outcomes.Continuous Learning.Be the best to standout. <br>🎲 Fun fact: solving bugs</p>
 
 ### 🌐 Connect with me:
 <div align="left">
